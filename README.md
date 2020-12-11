@@ -11,7 +11,7 @@
 1. Fork and Clone
 1. Create a new branch called: `yourName-ArrayChallenge`
 1. Use a whiteboard to work out a solution to challenges below.
-1. Translate the broad ideas to psuedo code
+1. Translate the broad ideas to pseudo code
 1. Convert the psuedo code to real JavaScript Code
 1. Type into your text editor the JavaScript code you've come up with one step at a time
 1. Work through your bugs.
