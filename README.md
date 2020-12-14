@@ -74,7 +74,7 @@
    * Write code that will add 2 to each item in the array `numbers`.
       * `forEach` requires a function to be passed into it as its first argument.
       * Build a function called `addTwo` that can take in num, index, and arr as parameters—`(num, index, arr)`—and returns `num + 2` at each `index` of the `arr`.
-      * Use `.forEach()` on the `numbers` array, passing in your freshly built function `addTwo` as a parameter, in order to add 2 to each number in the array.
+      * Use `.forEach()` on the `numbers` array, passing in your freshly built function `addTwo` as an argument, in order to add 2 to each number in the array.
    * Console.log `numbers` and run the program.
 
 ### Hints
