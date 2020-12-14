@@ -40,7 +40,7 @@
    * Use the `split` method to convert `stringOfCars` into an array called `carsFromString`.
    * Console.log the array you just created.
    * Run the program.
-    > BONUS: Go back and pass a comma (`','`) in as a parameter to `.split()` to separate the cars into individual items in the array.
+    > BONUS: Go back and pass a comma (`','`) in as an argument to `.split()` to separate the cars into individual items in the array. This is called a *separator* and it can be any character you wish to separate strings by.
 1. `.reverse()`
    * Use the `reverse` method to create an array `carsInReverse` which is the array `totalCars` in reverse.
    * Console.log `carsInReverse`.
@@ -80,10 +80,9 @@
 ### Hints
 
 1. Use [repl.it](https://www.repl.it) to write the solution code first. (It's a faster environment vs using the `node main.js` command over and over again.)
-1. Use your documentation.
-1. Push yourself further.
-1. Look at your hints!
-1. **Clone, setup, testing, and running instructions for all projects is below**
+1. [Use your documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String).
+1. Push yourself to learn on your own. Ask: How does this work?
+1. **Clone, setup, testing, and running instructions for all projects are below**
 
 ******
 
