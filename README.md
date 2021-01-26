@@ -82,7 +82,7 @@
 1. Use [repl.it](https://www.repl.it) to write the solution code first. (It's a faster environment vs using the `node main.js` command over and over again.)
 1. [Use your documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String).
 1. Push yourself to learn on your own. Ask: How does this work?
-1. **Clone, setup, testing, and running instructions for all projects are below**
+1. **Clone, setup, testing, and running instructions for all projects is below**
 
 ******
 
@@ -153,12 +153,12 @@ example `node 01week/rockPaperScissors.js`
 
 ### Running Tests
 
-Tests are a great way to make sure you code works the way you planned it would,
+Tests are a great way to make sure your code works the way you planned it would,
 and to make sure you don't break something in the future. We will be using them
 to test our understanding of the lesson. It's also our main way to assign grades
 for an assignment.
 
-To run a the tests on a file run `npm test path/to/file.js`, etc.
+To run the tests on a file run `npm test path/to/file.js`, etc.
 
 ### Running the Linter
 
