@@ -10,12 +10,13 @@
 
 1. Fork and Clone
 1. Create a new branch called: `yourName-ArrayChallenge`
-1. Use a whiteboard to work out a solution to the challenges below
-1. Translate the broad ideas to pseudo code
-1. Convert the pseudo code to real JavaScript code
-1. Type into your text editor the JavaScript code you've come up with one step at a time
-1. Work through your bugs.
-1. Use `node main.js` to run the program after **every** line of code you build.
+1. Install dependecies: `npm i` (see `package.json`)
+3. Use a whiteboard to work out a solution to the challenges below
+4. Translate the broad ideas to pseudo code
+5. Convert the pseudo code to real JavaScript code
+6. Type into your text editor the JavaScript code you've come up with one step at a time
+7. Work through your bugs.
+8. Use `node main.js` to run the program after **every** line of code you build.
 
 ### Challenges
 
